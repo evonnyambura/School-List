@@ -1,0 +1,7 @@
+pens
+pencils
+erasers
+rulers
+sharpeners
+books
+
