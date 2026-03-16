@@ -4,4 +4,9 @@ erasers
 rulers
 sharpeners
 books
+tissues
+wet wipes
+lotions
+hairfood
+airfresheners
 
